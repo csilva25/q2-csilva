@@ -72,6 +72,12 @@ class Piezas
      * line, it is a tie.
     **/
   	Piece gameState();
+    
+    /** 
+     * toggles the trun
+     **/
+    
+    void toggle();
 };
 
 #endif /*_PIEZAS_H_*/
